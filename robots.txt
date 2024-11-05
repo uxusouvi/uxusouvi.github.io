@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxusouvi.github.io/HdO/sitemap_index.txt
+Sitemap: https://uxusouvi.github.io/OKh/sitemap_index.txt
+Sitemap: https://uxusouvi.github.io/WFd/sitemap_index.txt
+Sitemap: https://uxusouvi.github.io/uvJ/sitemap_index.txt
